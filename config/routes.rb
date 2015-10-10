@@ -8,6 +8,8 @@ Rails.application.routes.draw do
   get 'joke_ad/ad04'
   
   get 'joke_ad/ad05'
+  
+  get 'joke_ad/ad06'
   get 'welcome/index'
   root 'welcome#index'
   # The priority is based upon order of creation: first created -> highest priority.

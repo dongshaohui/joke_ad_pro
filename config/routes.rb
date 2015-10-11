@@ -12,6 +12,7 @@ Rails.application.routes.draw do
   get 'joke_ad/ad06'
   
   get 'joke_ad/ad07'  
+  get 'joke_ad/ad08'  
   
   get 'welcome/index'
   root 'welcome#index'

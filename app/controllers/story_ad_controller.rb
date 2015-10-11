@@ -1,0 +1,2 @@
+class StoryAdController < ApplicationController
+end

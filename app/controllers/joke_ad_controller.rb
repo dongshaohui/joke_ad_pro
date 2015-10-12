@@ -23,4 +23,6 @@ class JokeAdController < ApplicationController
   def ad08
   end 
   
+  def ad09
+  end 
 end
